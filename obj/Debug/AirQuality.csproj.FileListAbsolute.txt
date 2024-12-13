@@ -1,0 +1,13 @@
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\bin\Debug\AirQuality.exe.config
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\bin\Debug\AirQuality.exe
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\bin\Debug\AirQuality.pdb
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\bin\Debug\Newtonsoft.Json.dll
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\bin\Debug\Newtonsoft.Json.xml
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\obj\Debug\AirQuality.csproj.AssemblyReference.cache
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\obj\Debug\AirQuality.Form1.resources
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\obj\Debug\AirQuality.Properties.Resources.resources
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\obj\Debug\AirQuality.csproj.GenerateResource.cache
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\obj\Debug\AirQuality.csproj.CoreCompileInputs.cache
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\obj\Debug\AirQuality.csproj.Up2Date
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\obj\Debug\AirQuality.exe
+C:\Users\woland\Desktop\Code\see sharp\AirQuality\obj\Debug\AirQuality.pdb
